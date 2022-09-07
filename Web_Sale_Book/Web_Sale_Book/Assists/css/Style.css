@@ -1,0 +1,22 @@
+﻿body {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #fff;
+    background-color: #ccc;
+}
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    line-height: 30px;
+}
+
+.footer p {
+    color: white;
+    margin-top: 1rem;
+    margin-left: 1rem;
+}
+
+.nav-link:hover {
+    cursor: pointer;
+}
+
